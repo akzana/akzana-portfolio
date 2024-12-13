@@ -16,18 +16,18 @@
 
 ## Checklist
 
-[] Contact 
+[ ] Contact 
 
-[] bio and photo
+[ ] bio and photo
 
-[] Experience and skills
+[ ] Experience and skills
 
-[] Personal projects
+[ ] Personal projects
 
-[] Documented source code
+[ ] Documented source code
 
-[] Education
+[ ] Education
 
-[] Awards/recognition
+[ ] Awards/recognition
 
-[] Downloadable web developer resume
+[ ] Downloadable web developer resume
