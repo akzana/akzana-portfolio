@@ -18,16 +18,17 @@
 
 - [ ] Contact 
 
-- [ ] Bio and photo
+- [ ] Bio
 
-- [ ] Experience and skills
-
-- [ ] Personal projects
-
-- [ ] Documented source code
+- [ ] Experience and projects
 
 - [ ] Education
 
+- [ ] Downloadable web developer resume
+
+### Secondhand
+- [ ] Documented source code
+
 - [ ] Awards/recognition
 
-- [ ] Downloadable web developer resume
+- [ ] Hobbies
