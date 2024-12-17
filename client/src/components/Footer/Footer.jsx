@@ -1,7 +1,7 @@
 import React from 'react';
-import "./HomePage.scss";
+import "./Footer.scss";
 
-export default function HomePage() {
+export default function Footer() {
   return (
     <div>
       

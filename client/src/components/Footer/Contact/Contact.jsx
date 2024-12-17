@@ -1,7 +1,7 @@
 import React from 'react';
-import "./HomePage.scss";
+import "./Contact.scss";
 
-export default function HomePage() {
+export default function Contact() {
   return (
     <div>
       

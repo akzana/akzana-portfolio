@@ -1,7 +1,7 @@
 import React from 'react';
-import "./HomePage.scss";
+import "FTName.scss";
 
-export default function HomePage() {
+export default function FTName() {
   return (
     <div>
       
